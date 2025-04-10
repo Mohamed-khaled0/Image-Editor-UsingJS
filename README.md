@@ -2,7 +2,6 @@
 
 ## Overview
 This project is a photo editing application that allows users to upload images and apply various filters and effects using JavaScript. The application is designed to be responsive, making it accessible on different devices.
-- [Demo](https://mohamed-khaled0.github.io/Image-Editor-UsingJS/)
 - [Youtube Vedio](https://youtu.be/Qko6NXQ0hYo)
 
 ## Features
